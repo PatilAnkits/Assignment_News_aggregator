@@ -21,4 +21,23 @@ When user opens the app, he able to view the top headlines fetched by the API
 
  `Enable the search functionality for users to filter news based on the search keyword`
  
-![alt text](images/home.PNG/)
+![alt text](images/inputSearch.PNG/)
+
+## Enable the search functionality in the search bar
+
+`i.e => serach for google artical`
+
+![alt text](images/search.PNG/)
+
+## Invalid Search
+
+```
+When invalid searches(For eg: "asasdasd") are made, ensure that the screen displays "No article was found based on the search."(Put the text in an element with class name "not-found")
+```
+![alt text](images/notFound.PNG/)
+
+## theme
+
+`Enable ability to switch between dark mode(Background is black) and light mode(Background is white)`
+
+![alt text](images/mode.PNG/)
