@@ -29,6 +29,10 @@ When user opens the app, he able to view the top headlines fetched by the API
 
 ![alt text](images/search.PNG/)
 
+## card structure
+
+![alt text](images/cards.PNG/)
+
 ## Invalid Search
 
 ```
